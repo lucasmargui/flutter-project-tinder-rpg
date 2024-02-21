@@ -124,6 +124,20 @@ Atributos:
 </div>
 
 
+### Batalhas
+
+<div align="center">
+  <img src="https://github.com/lucasmargui/Flutter_Projeto_TinderRpg/assets/157809964/67eec330-b927-4237-80a9-c5378c09d978" style="width:40%">
+  <img src="https://github.com/lucasmargui/Flutter_Projeto_TinderRpg/assets/157809964/f8472d42-883a-4d71-8fe5-9ea01dffbeed" style="width:40%">
+</div>
+
+
+
+
+
+
+
+
 
 
 
