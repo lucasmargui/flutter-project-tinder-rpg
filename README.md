@@ -2,7 +2,7 @@
 <p align="center">🚀 Project to create an application structure using Flutter for future references</p>
 
 ## Overview
-This application was designed using Flutter to simulate the structure of a dating application
+This application was designed using Flutter to simulate the structure of a dating application with rpg elements
 
 
 
